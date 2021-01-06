@@ -1,4 +1,4 @@
-# Burger Logger
+# User Directory
 # Table of Contents 
 
 *[Description](#description) 
